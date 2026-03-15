@@ -1,1 +1,1 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+-- Server-side placeholder for future use
